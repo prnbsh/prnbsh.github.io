@@ -2,14 +2,19 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello
 
-### More Information
+Thank you for visiting this page.
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Pranab Sharma.
 
-### Contact me
+I have been working in the San Francisco Bay Area for the last few years. 
 
-[email@domain.com](mailto:email@domain.com)
+I focus on pricing strategy.
+
+I had the opportunity to study management at MIT Sloan and at IIT Kharagpur. I studied technology at University of Delhi.
+
+My professional bio is on [LinkedIn](https://www.linkedin.com/in/pranabsharma)

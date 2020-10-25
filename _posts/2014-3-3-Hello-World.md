@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Why you should read posts on this site
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I analyze decisions in a specific way - heavily data driven while focusing on the core variables
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+I aim to share the results from this process. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Some topics that I plan to cover in future posts
+- Financial decisions when buying a home in California
+- Solar Panels in California
